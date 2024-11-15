@@ -29,10 +29,12 @@
     <body class="flex flex-col justify-between min-h-screen font-sans leading-normal text-gray-800 bg-gray-100">
         <header class="flex items-center py-4 mb-8 h-24 bg-white border-b shadow" role="banner">
             <div class="container flex items-center px-4 mx-auto max-w-8xl lg:px-8">
-                <div class="flex items-center">
+                <div class="flex items-end">
                     <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
-                        <h1 class="pr-4 my-0 text-lg font-semibold text-orange-500 md:text-2xl hover:text-blue-600">{{ $page->siteName }}</h1>
+                        <h1 class="pr-4 my-0 text-lg font-semibold text-orange-500 md:text-2xl hover:text-orange-600">{{ $page->siteName }}</h1>
                     </a>
+
+                    <a href="/howto" class="text-lg text-gray-500 hover:text-orange-600">How to use Map Guides</a>
                 </div>
             </div>
         </header>

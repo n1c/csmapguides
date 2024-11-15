@@ -1,3 +1,16 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+code {
+  @apply bg-gray-300;
+  @apply font-mono;
+  @apply px-1;
+  @apply py-0.5;
+  @apply rounded-md;
+}
+
+.link {
+  @apply text-orange-500;
+  @apply underline;
+}
