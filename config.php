@@ -5,4 +5,9 @@ return [
     'production' => false,
     'siteName' => 'Counter-Strike Map Guides',
     'siteDescription' => 'Find & Share Counter-Strike Map Guides',
+    'collections' => [
+        'nuke' => [
+            'path' => '/{collection}/{filename}',
+        ],
+    ],
 ];

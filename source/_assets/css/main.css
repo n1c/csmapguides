@@ -14,3 +14,17 @@ code {
   @apply text-orange-500;
   @apply underline;
 }
+
+.markdown a {
+  @apply link;
+}
+
+.markdown h1 {
+  @apply text-4xl;
+  @apply mb-4;
+}
+
+.markdown img {
+  @apply rounded-md;
+  @apply w-full;
+}
