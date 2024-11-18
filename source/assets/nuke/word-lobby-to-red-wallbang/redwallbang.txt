@@ -1,0 +1,355 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	MapName = "de_nuke"
+	ScreenText = 
+	{
+	}
+	MapAnnotationNode0 = 
+	{
+		Enabled = true
+		Type = "position"
+		Id = "f76c2212-15cf-4094-84d5-91dc66719659"
+		SubType = "main"
+		Position = [ -146.238281, -1135.96875, -415.96875 ]
+		Angles = [ 0.0, -66.877213, 0.0 ]
+		VisiblePfx = true
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 60.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "red wallbang"
+			FontSize = 125
+			FadeInDist = 600.0
+			FadeOutDist = 40.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 300.0
+			FadeOutDist = 40.0
+		}
+	}
+	MapAnnotationNode1 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "3ebd473c-6b5f-43d5-b7be-50eafb803c4f"
+		SubType = "main"
+		Position = [ -45.778969, -1109.343262, -345.291168 ]
+		Angles = [ -3.920709, 6.344201, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "info"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = "wedge against edge of door frame"
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode2 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "8dc97405-e013-4c2f-8c96-adc08c12f60f"
+		SubType = "main"
+		Position = [ 64.173889, -785.060608, -346.670868 ]
+		Angles = [ -3.128701, 59.289883, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "info"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = "line up the I with the top of door handle frame"
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode3 = 
+	{
+		Enabled = true
+		Type = "spot"
+		Id = "16a96807-1dc5-49bb-9b06-cc83ea150bae"
+		SubType = "main"
+		Position = [ -146.227661, -1135.968506, -415.96875 ]
+		Angles = [ 0.0, 68.949158, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = false
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = ""
+			FontSize = 125
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode4 = 
+	{
+		Enabled = true
+		Type = "spot"
+		Id = "76d99c7a-700f-4492-a0ef-5fe14ab16a65"
+		SubType = "aim_target"
+		Position = [ -121.219559, -1039.195923, -355.23642 ]
+		Angles = [ 1.780842, 75.510544, 0.0 ]
+		VisiblePfx = true
+		TextPositionOffset = [ 0.0, 0.0, -10.0 ]
+		TextFacePlayer = false
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		MasterNodeId = "16a96807-1dc5-49bb-9b06-cc83ea150bae"
+	}
+	MapAnnotationNode5 = 
+	{
+		Enabled = true
+		Type = "spot"
+		Id = "881245ea-4f9e-440b-a7d1-7be41017e9d3"
+		SubType = "main"
+		Position = [ -146.230774, -1135.96875, -415.96875 ]
+		Angles = [ 0.0, 67.976196, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = false
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = ""
+			FontSize = 125
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode6 = 
+	{
+		Enabled = true
+		Type = "spot"
+		Id = "50d6e870-91c1-4541-b481-e70787e9121d"
+		SubType = "aim_target"
+		Position = [ -114.344376, -1041.476685, -344.745819 ]
+		Angles = [ -4.233957, 71.353004, 0.0 ]
+		VisiblePfx = true
+		TextPositionOffset = [ 0.0, 0.0, -10.0 ]
+		TextFacePlayer = false
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		MasterNodeId = "881245ea-4f9e-440b-a7d1-7be41017e9d3"
+	}
+	MapAnnotationNode7 = 
+	{
+		Enabled = true
+		Type = "spot"
+		Id = "6402eb1f-b211-4987-9a0b-05bde3fd1d3d"
+		SubType = "main"
+		Position = [ -146.230774, -1135.96875, -415.96875 ]
+		Angles = [ 0.0, 67.976196, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = false
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = ""
+			FontSize = 125
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode8 = 
+	{
+		Enabled = true
+		Type = "spot"
+		Id = "25bc9534-c2c6-4112-885e-aafe888623de"
+		SubType = "aim_target"
+		Position = [ -114.294899, -1041.258057, -355.288605 ]
+		Angles = [ 1.810771, 71.366203, 0.0 ]
+		VisiblePfx = true
+		TextPositionOffset = [ 0.0, 0.0, -10.0 ]
+		TextFacePlayer = false
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		MasterNodeId = "6402eb1f-b211-4987-9a0b-05bde3fd1d3d"
+	}
+	MapAnnotationNode9 = 
+	{
+		Enabled = true
+		Type = "spot"
+		Id = "233a5a18-b413-466d-9150-bba9b97f1f64"
+		SubType = "main"
+		Position = [ 481.043823, 699.787048, -479.96875 ]
+		Angles = [ 0.0, 72.558868, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = false
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = ""
+			FontSize = 125
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+	}
+	MapAnnotationNode10 = 
+	{
+		Enabled = true
+		Type = "spot"
+		Id = "bb226161-070d-4c3a-81b1-76afbd8e62b2"
+		SubType = "aim_target"
+		Position = [ 510.956024, 795.202271, -417.223572 ]
+		Angles = [ 0.627298, 72.594048, 0.0 ]
+		VisiblePfx = true
+		TextPositionOffset = [ 0.0, 0.0, -10.0 ]
+		TextFacePlayer = false
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = ""
+			FontSize = 75
+			FadeInDist = 50.0
+			FadeOutDist = -1.0
+		}
+		MasterNodeId = "233a5a18-b413-466d-9150-bba9b97f1f64"
+	}
+	MapAnnotationNode11 = 
+	{
+		Enabled = true
+		Type = "text"
+		Id = "4a3b6552-7844-4d83-b7ad-7f690d6a97f8"
+		SubType = "main"
+		Position = [ 525.234375, 825.827087, -354.115417 ]
+		Angles = [ -38.325867, 75.830292, 0.0 ]
+		VisiblePfx = false
+		Color = [ 255, 255, 255 ]
+		TextPositionOffset = [ 0.0, 0.0, 0.0 ]
+		TextFacePlayer = true
+		TextHorizontalAlign = "center"
+		RevealOnSuccess = false
+		Title = 
+		{
+			Text = "red wallbang"
+			FontSize = 125
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+		Desc = 
+		{
+			Text = "hits here"
+			FontSize = 75
+			FadeInDist = 800.0
+			FadeOutDist = -1.0
+		}
+	}
+}
